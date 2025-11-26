@@ -1,0 +1,5 @@
+["cam/image_array", "user/angle", "user/throttle", "user/mode", "behavior/state", "behavior/label", "behavior/one_hot_state_array"]
+["image_array", "float", "float", "str", "int", "str", "vector"]
+{}
+{"created_at": 1764138736.1442122}
+{"paths": ["catalog_0.catalog"], "current_index": 0, "max_len": 1000, "deleted_indexes": []}
